@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "name": "mailMe Web Service",
+  "name": "mailMe",
   "builds": [
     {
       "src": "index.js",
