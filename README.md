@@ -1,6 +1,6 @@
-# 📬 Dynamic Contact Form Email API
+# 📬 Dynamic Website Form Email API
 
-An educational and experimental Node.js API to send emails from contact forms. Supports dynamic request bodies, IP & geolocation tracking, service status, and includes a built-in testing UI.
+An educational and experimental Node.js API to send emails from website forms. Supports dynamic request bodies, IP & geolocation tracking, service status.
 
 ---
 
